@@ -9,7 +9,8 @@ Faces made using HTML &amp; CSS.
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Deployed Using
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e55ea48b-1e9f-4b1f-804a-417a15b20fcc/deploy-status)](https://app.netlify.com/sites/github-mrinnnmoy-faces/deploys)
 
 ## Compiled Image ✨ :
 ![screencapture-faces-github-2022-04-05-16_04_20](https://github.com/mrinnnmoy/faces/blob/main/Screenshot%20(9).png)
