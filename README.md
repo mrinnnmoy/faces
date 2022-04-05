@@ -1,7 +1,7 @@
 # faces
 Faces made using HTML &amp; CSS.
 
-[Visit Now](https://resplendent-valkyrie-ac0136.netlify.app/)🚀
+[Visit Now](https://github-mrinnnmoy-faces.netlify.app/)🚀
 
 ## 🖥️ Tech Stack
 
